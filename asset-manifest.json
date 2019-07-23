@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sql-editor/static/css/main.2cce8147.chunk.css",
+    "main.js": "/sql-editor/static/js/main.98994324.chunk.js",
+    "main.js.map": "/sql-editor/static/js/main.98994324.chunk.js.map",
+    "runtime~main.js": "/sql-editor/static/js/runtime~main.f2cfaa06.js",
+    "runtime~main.js.map": "/sql-editor/static/js/runtime~main.f2cfaa06.js.map",
+    "static/js/2.b41502e9.chunk.js": "/sql-editor/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/sql-editor/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/sql-editor/index.html",
+    "precache-manifest.42bbf32de25ca0ae125a24faeb945db3.js": "/sql-editor/precache-manifest.42bbf32de25ca0ae125a24faeb945db3.js",
+    "service-worker.js": "/sql-editor/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/sql-editor/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/sql-editor/static/media/logo.5d5d9eef.svg"
+  }
+}
