@@ -1,0 +1,46 @@
+.ant-tabs-nav .ant-tabs-tab-active {
+  color: var(--primary-color);
+}
+
+.ant-tabs-nav .ant-tabs-tab:hover {
+color: var(--primary-color);
+}
+
+.ant-tabs-ink-bar {
+background-color: var(--primary-color);
+}
+
+.ant-tabs-bar {
+  border-bottom: 0;
+}
+
+.ant-tabs-top-bar {
+  background-color: var(--background-color);
+}
+
+/* Side Menu Color Override */ 
+.ant-steps-item-process .ant-steps-item-icon > .ant-steps-icon .ant-steps-icon-dot {
+  background: var(--primary-color);
+}
+
+.ant-menu-horizontal > .ant-menu-item:hover, .ant-menu-horizontal > .ant-menu-submenu:hover, .ant-menu-horizontal > .ant-menu-item-active, .ant-menu-horizontal > .ant-menu-submenu-active, .ant-menu-horizontal > .ant-menu-item-open, .ant-menu-horizontal > .ant-menu-submenu-open, .ant-menu-horizontal > .ant-menu-item-selected, .ant-menu-horizontal > .ant-menu-submenu-selected {
+  color: var(--primary-color);
+  border-bottom: 2px solid var(--primary-color);
+}
+
+.ant-menu-horizontal {
+    border-bottom: none;
+}
+
+.ant-layout-header {
+    line-height: normal;
+}
+
+.hidden-small {
+    display: initial;
+}
+
+.ant-btn-primary {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
